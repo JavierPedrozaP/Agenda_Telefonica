@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="agenda_telefónica:jar">
+    <output-path>$PROJECT_DIR$/agenda_telefónica_jar</output-path>
+    <root id="archive" name="agenda_telefónica.jar">
+      <element id="module-output" name="agenda_telefónica" />
+    </root>
+  </artifact>
+</component>
